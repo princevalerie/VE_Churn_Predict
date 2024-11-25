@@ -1,4 +1,7 @@
-streamlit
 pandas
+numpy
 scikit-learn
+streamlit
+google-generativeai
+python-dotenv
 openpyxl
